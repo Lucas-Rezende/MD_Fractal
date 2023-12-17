@@ -1,5 +1,4 @@
 # MD_Fractal
-## Introdução
 Esse trabalho prático foi desenvolvido com a linguagem de programação C com auxílio de Python e sua biblioteca gráfica turtle. O ambiente de desenvolvimento foi o WSL 2 com Arch Linux no Windows 11, todavia, o projeto foi
 testado em outros sistemas, como Ubuntu e Xubuntu.
 
